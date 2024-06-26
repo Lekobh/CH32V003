@@ -18,12 +18,6 @@ This project demonstrates the implementation of PWM (Pulse Width Modulation) con
 - Serial connection for debugging (e.g., UART to USB)
 - LED or oscilloscope connected to pin PC4 to visualize the PWM output
 
-## Development Environment Setup
-
-1. Install the WCH-Link development environment
-2. Clone this repository
-3. Open the project in your preferred IDE that supports CH32V00x
-
 ## How to Use
 
 1. Compile and load the code onto your CH32V00x device
