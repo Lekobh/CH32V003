@@ -2,7 +2,8 @@
 #include "debug.h"
 
 
-// Led D0  Interrupt C3
+// Led pin D0 
+// Interrupt pin C3
 #define LED_PIN GPIO_Pin_0
 #define INTERRUPT_PIN GPIO_Pin_3
 
